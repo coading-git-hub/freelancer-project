@@ -1,0 +1,167 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background: #c4a6df;
+}
+
+ header .img1{
+    width: 191.91px;
+height: 75.08px;
+margin-top: 50px;
+margin-left: 50.1px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+header{
+    display: flex;
+    width: 100%;
+    
+    
+
+}
+nav ul li{
+    display: inline-flex;
+    margin-left: 150px;
+    margin: 20px;
+    margin-top: 50px;
+}
+nav{
+    margin-left: 40rem;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(243, 239, 239);
+justify-content: center;
+font-family: Inter;
+font-size: 32px;
+font-weight: 500;
+line-height: 29.05px;
+text-align: left;
+margin: 30px;
+}
+nav ul img{
+    margin: 40;
+}
+nav ul li img{
+
+margin-left: 50px;
+}
+h1{
+    width: 551px;
+height: 168px;
+margin-top: 70px;
+margin-left: 250px;
+gap: 0px;
+opacity: 0px;
+color: aliceblue;
+font-family: Inter;
+font-size: 80px;
+font-weight: 900;
+line-height: 84px;
+text-align: left;
+}
+p{
+    width: 527px;
+height: 83px;
+margin-top: 60px;
+margin-left: 250px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 26.88px;
+text-align: left;
+color: aliceblue;
+
+}   
+
+i img{
+    width: 72px;
+height: 72px;
+top: 629px;
+left: 461px;
+gap: 0px;
+border: 3px 0px 0px 0px;
+opacity: 0px;
+
+}
+ .arrow{
+    margin-top: 50px;
+    margin-left:250px ;
+ }
+     
+ 
+.boy{
+    float: right;
+    margin-top: -450px;
+    margin-right: 100px;
+}
+.serch{
+    width: 50px;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+.copy{
+margin-top: 80px;
+margin-left: 250px;
+}
+h4{
+    height: 50px;
+    width: 100px;
+    color: white;
+    float: right;
+    margin-top: -30px;
+
+}
+.dots svg{
+    float: right;
+    /* margin-top: -400px; */
+    margin-right: 20px;
+    color: #9A54D6;
+    justify-content: center;
+    display: inline;
+    
+}
+.dot1{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    float: right;
+    margin-top: -400px;
+    margin-left: 250px;
+    margin-right: -70px;
+}
+.dot2{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    float: right;
+    margin-top: -300px;
+    margin-left: 250px;
+    margin-right: -70px;
+}
+.dot3{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    float: right;
+    margin-top: -200px;
+    margin-left: 250px;
+    margin-right: -70px;
+}
+.dot4{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    float: right;
+    margin-top: -100px;
+    margin-left: 250px;
+    margin-right: -70px;
+}
